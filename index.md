@@ -162,7 +162,7 @@ Signed,
 - Craig Maloney
 - Cyril Brulebois (Debian Developer)
 - Dakota "Kai" Lyons (owner, Fivnex.co)
-- Dale Hirt End of the world
+- Dale Hirt
 - Dan Arel (owner, ThinkPrivacy.ch)
 - Dan Bornstein (@danfuzz)
 - Dan "Fennix" Sim
